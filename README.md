@@ -1,4 +1,6 @@
-# Smart Home Appliance System
+# Smart Home Appliance System 
+
+This README file was prepared with the help of AI tool ChatGPT.
 
 ## Overview
 
