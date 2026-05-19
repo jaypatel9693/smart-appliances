@@ -22,6 +22,7 @@ The light is turned off by toggling the switch to the **OFF** position.
 
 ```java
 switchOn = false;
+```
 
 ### 2. Fan
 The fan is turned off by reducing the speed to 0.
@@ -34,17 +35,21 @@ Fan speed values:
 
 ```java
 speed = 0;
+```
 
 ### 3. Air Conditioner
 The air conditioner is turned off by setting the thermostat mode to OFF.
 
 ```java
 thermostatMode = "off";
+```
 
 Compile Java files
 ```bash
 mvn clean install
+```
 
 Run java program
 ```bash
 java -jar target/smart-appliances-1.0-SNAPSHOT.jar
+```
